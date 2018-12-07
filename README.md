@@ -1,1 +1,1 @@
-# Knn based on standford class CV cs231n
+# Knn based on stanford class CV cs231n
